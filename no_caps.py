@@ -1,6 +1,6 @@
 bl_info = {
     "name": "No Caps",
-    "author": "diskutabel",
+    "author": "dllmun",
     "version": (1, 0, 5),
     "blender": (3, 6, 4),
     "location": "View3D > N",
