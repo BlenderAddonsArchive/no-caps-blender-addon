@@ -1,3 +1,3 @@
-# No Caps
-
-Works automatically, manually disabled by "View3D > N > No Caps > Disable".
+- No Caps automatically disables Caps Lock after installation.
+- You can manually disable it via "View3D > N > No Caps > Disable".<br><br>
+  (Windows only)
